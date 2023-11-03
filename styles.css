@@ -1,0 +1,9 @@
+/* Apply background image to the entire viewport */
+body {
+    background-image: url('./assets/tallest_text_fauvism.png'); /* Replace 'your-background-image.jpg' with the actual image file path */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Optional: Keep the background fixed while scrolling */
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
