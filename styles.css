@@ -1,7 +1,7 @@
 /* Apply background image to the entire viewport */
 body {
     background-image: url('./assets/tallest_text_fauvism.png'), url('./assets/parchment.png'); /* Replace 'your-background-image.jpg' with the actual image file path */
-    background-size: 87%, 96%;
+    background-size: 100%, 110%;
     background-repeat: no-repeat, repeat;
     background-position: center top, center;
     /*background-attachment: fixed;*/ /* Optional: Keep the background fixed while scrolling */
